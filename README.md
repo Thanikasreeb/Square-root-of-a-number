@@ -30,7 +30,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![gcd of two number](square root of a number.png)
+[gcd of two number](sqrt.png)
 
 
 ## Result:
